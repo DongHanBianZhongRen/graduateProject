@@ -1062,3 +1062,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2022.11.29-04.11.12:408][117]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000011 seconds (updated 0 objects)
 [2022.11.29-04.11.13:395][152]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2022.11.29-04.11.43:928][758]LogSlate: Window '源码管理登陆' being destroyed
+[2022.11.29-04.12.56:758][930]LogDerivedDataCache: C:/Users/15622/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.086 and deleted 0 files with total size 0 MiB. Scanned 945 files in 942 folders with total size 11 MiB.
